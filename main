@@ -1,0 +1,10 @@
+draw clear 0 0 0 0 0 0
+draw color 255 0 0 255 0 0
+draw rect 20 10 40 60 0 0
+draw rect 20 0 10 10 0 0
+draw rect 50 0 10 10 0 0
+draw rect 60 20 10 30 0 0
+draw color 128 128 255 255 0 0
+draw rect 10 50 40 15 0 0
+drawflush display1
+end
